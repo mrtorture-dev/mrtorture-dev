@@ -27,5 +27,5 @@ I am a Computer Engineering student deeply passionate about the intersection of 
 ---
 
 ### 🤝 Connect with Me
-* 💼 [LinkedIn](https://linkedin.com/in/your-profile) * 🌐 [Club Blockchain PUCP](https://linktr.ee/clubblockchainpucp) * 📫 Reach me at: `fpolar@pucp.edu.pe` ```
+* 💼 [LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/fredy-alberto-polar-urviola/)) * 🌐 [Club Blockchain PUCP](https://linktr.ee/club.blockchain.pucp) * 📫 Reach me at: `fpolar@pucp.edu.pe` ```
 
